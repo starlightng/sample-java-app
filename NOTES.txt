@@ -1,1 +1,4 @@
 #This is just another dummy file
+personal access token is like an encrypted password
+  pat restrict what members can do  
+  It defines the scope that a team member or developer can perform 
